@@ -11,7 +11,8 @@
 ---
 ![Alt Text](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
 ---
-![Profile views](https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=currentvai&label=Profile%20Views&color=blue&style=flat)
+
 
 
 
