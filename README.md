@@ -12,7 +12,7 @@
 ![Alt Text](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=currentvai&label=Profile%20Views&color=blue&style=flat" alt="profile view" />
+  <img src="https://komarev.com/ghpvc/?username=currentvai&label=Profile%20Views&color=blue&style=flat" alt="profile view" width="400"/>
 </p>
 
 
