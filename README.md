@@ -66,3 +66,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=currentvai&label=Profile%20Views&color=blue&style=flat" alt="profile view" />
 </p>
+
+#snake workflows
+
+![snake gif](https://github.com/currentvai/currentvai/blob/output/github-snake.svg)
