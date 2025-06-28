@@ -12,8 +12,9 @@
 ![Alt Text](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
 ---
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile_Views-🔵_Live-blue?style=for-the-badge&logo=github" alt="profile view"/>
+  <img src="https://readme-visitor-counter-badge.vercel.app/api/currentvai?style=animated" alt="animated profile views" width="300"/>
 </p>
+
 
 
 
