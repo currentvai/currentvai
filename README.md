@@ -39,8 +39,9 @@
 
 ---
 <p align="center">
-  <img src="https://github.com/currentvai/currentvai/blob/main/assets/currentvai/image/code.gif" alt="profile view" />
+  <img src="assets/currentvai/image/code.gif" alt="profile view" />
 </p>
+
 ---
 
 
