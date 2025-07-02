@@ -1,3 +1,5 @@
+<div align="center">
+
 ---
 
 
@@ -73,3 +75,6 @@
 #snake workflows
 
 ![snake gif](https://github.com/currentvai/currentvai/blob/output/github-snake.svg)
+
+
+</div>
