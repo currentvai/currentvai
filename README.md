@@ -58,7 +58,10 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=currentvai&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+___
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=currentvai&layout=compact&theme=tokyonight)
+___
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=currentvai&show_icons=true&theme=tokyonight)
 ---
 [![](https://visitcount.itsvg.in/api?id=currentvai&icon=0&color=0)](https://visitcount.itsvg.in)
 
